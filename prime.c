@@ -7,7 +7,7 @@
 
 int main(void)
 {
-    unsigned prime_candidate;
+    unsigned prrime_candidate;
 
     while((prime_candidate = io_ask()) > 0)
     {
